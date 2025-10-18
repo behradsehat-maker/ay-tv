@@ -1,3 +1,8 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="azad_tv" tvg-name="Azad TV" tvg-logo="https://example.com/logo.png" group-title="News",Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="arb_tv" tvg-name="ARB" tvg-logo="https://example.com/arb_logo.png" group-title="News",ARB
+https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1184757841.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
