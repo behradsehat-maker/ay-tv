@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="azad_tv" tvg-name="Azad TV" tvg-logo="https://example.com/logo.png" group-title="News",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
