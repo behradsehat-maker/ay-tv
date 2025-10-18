@@ -6,6 +6,10 @@ https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:-1 tvg-id="arb_tv" tvg-name="ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="News",ARB
 https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1184757841.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="khazar_tv" tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Xezer_TV_logo.png" group-title="News",Xəzər TV
+https://cdn505.freebroadcast.vip/xezertv.m3u8?tkn=YPlepYXbJIVHPpJkIjcHuQ&tms=1760842622&hst=www.canlitv.me&ip=2a02:8109:9f04:3200:dd9b:60b0:34a4:fcb1
+
 
 
 
