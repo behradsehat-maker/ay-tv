@@ -26,4 +26,17 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="cnnturk" tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CNN_T%C3%BCrk_logo.svg/1200px-CNN_T%C3%BCrk_logo.svg.png" group-title="News",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=5_xjz6Oe_BB6fHHoKrdVyg&e=1760882461
 
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/NTV_%28Turkey%29_logo.svg/1200px-NTV_%28Turkey%29_logo.svg.png" group-title="News",NTV
+https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w771085475.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 
+#EXTINF:-1 tvg-id="ahaber" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/A_Haber_logo.svg/1200px-A_Haber_logo.svg.png" group-title="News",A Haber
+https://yayin2.canlitv.fun/live/ahaber.stream/chunklist_w185753414.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
+#EXTINF:-1 tvg-id="haberturk" tvg-name="Habertürk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Habert%C3%BCrk_logo.svg/1200px-Habert%C3%BCrk_logo.svg.png" group-title="News",Habertürk
+https://yayin2.canlitv.fun/live/haberturk.stream/chunklist_w1840493498.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
+#EXTINF:-1 tvg-id="halktv" tvg-name="Halk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Halk_TV_logo.svg/1200px-Halk_TV_logo.svg.png" group-title="News",Halk TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=7uby9dflxqy1&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+#EXTINF:-1 tvg-id="haberglobal" tvg-name="Haber Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Haber_Global_logo.svg/1200px-Haber_Global_logo.svg.png" group-title="News",Haber Global
+https://yayin2.canlitv.fun/live/haberglobal.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
