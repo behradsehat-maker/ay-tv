@@ -17,3 +17,7 @@ https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=d48432a51cc5e4bbd
 #EXTINF:-1 tvg-id="medeniyyet_tv" tvg-name="Medeniyyet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" group-title="News",Medeniyyet TV
 https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjkxLjY1LjMwLjU4IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQxLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NjA4NzEyODQsImp0aSI6IjZmMTI1NjJkMjRlOGFiOTMifQ%3D%3D.gXu3l4uaeit9uHnxL4U97URM8ku9UdOMBi2Ps4eKZ8Y%3D
 
+#EXTINF:-1 tvg-id="ictimaitv" tvg-name="İctimai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/ITV_Azerbaijan_Logo.png" group-title="News",İctimai TV
+https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w124457280.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
+
