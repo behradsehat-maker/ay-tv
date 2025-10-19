@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem Comedy" group-title="GEM Channels",Gem Comedy
+https://corsply07c.cfpass2.cfpass2.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemcomedy/index-0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem Mifa" group-title="GEM Channels",Gem Mifa
+https://corsply07c.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem River" group-title="GEM Channels",Gem River
+https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20Gem%20River_/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tamasha Land" group-title="GEM Channels",Tamasha Land
+https://glserver1.tamashaland.com/live/1HswF8gkNmYF_kCcq99gpg__/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GEM TV" group-title="GEM Channels",GEM TV
+https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20TV_/chunks.m3u8
