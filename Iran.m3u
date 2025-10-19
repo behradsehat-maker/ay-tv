@@ -44,3 +44,7 @@ https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/
 #EXTINF:-1 tvg-id="nosh" tvg-name="Nosh" group-title="News",Nosh
 https://noshls.persiana.live/hls/stream.m3u8
 """
+
+#EXTINF:-1 tvg-id="iran_intl" tvg-name="Iran International" group-title="News",Iran International
+https://iranintl.icdndhcp.com/hls/stream.m3u8
+"""
