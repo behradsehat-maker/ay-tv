@@ -4,3 +4,6 @@ https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-id="showtv" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Show_TV_logo.png" group-title="News",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8?hash=ac30e40bc405bb46372128ce9aa6f8ec
+
+#EXTINF:-1 tvg-id="dogus_star_tv" tvg-name="Doğuş Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Star_TV_Turkey_logo.png" group-title="Entertainment",Doğuş Star TV
+https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=ZhggbbgH9DO_V83Gs6VtRQ&e=1760926771
