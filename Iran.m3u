@@ -28,9 +28,13 @@ https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/
 #EXTINF:-1 tvg-id="avang" tvg-name="Avang Live" group-title="News",Avang Live
 https://hls.avang.live/hls/stream.m3u8
 """
+
 #EXTINF:-1 tvg-id="pjtv" tvg-name="PJTV" group-title="News",PJTV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 """
 
+#EXTINF:-1 tvg-id="bravoo" tvg-name="Bravoo Live" group-title="News",Bravoo Live
+https://bravoohls.wns.live/hls/stream.m3u8
+"""
 
 
