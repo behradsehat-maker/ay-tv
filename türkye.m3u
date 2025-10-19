@@ -20,5 +20,10 @@ https://yayin2.canlitv.fun/live/kanald.stream/chunklist_w1326125217.m3u8?hash=d4
 #EXTINF:-1 tvg-id="tv8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV8_logo.png" group-title="News",TV8
 https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 
+#EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TRT_Haber_logo.svg/1200px-TRT_Haber_logo.svg.png" group-title="News",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="cnnturk" tvg-name="CNN Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CNN_T%C3%BCrk_logo.svg/1200px-CNN_T%C3%BCrk_logo.svg.png" group-title="News",CNN Türk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=5_xjz6Oe_BB6fHHoKrdVyg&e=1760882461
 
 
