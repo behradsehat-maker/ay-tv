@@ -12,4 +12,12 @@ https://spf-cors-bktv9.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/
 #EXTINF:-1 tvg-id="PMC" tvg-name="PMC" group-title="News", PMC
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20PMC/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Navahang" group-title="Radio/TV",Navahang Live
+https://hls.navahang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="tapesh" tvg-name="Tapesh TV" group-title="Persian",Tapesh TV
+https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
+
+#EXTINF:-1 tvg-id="persiana_music" tvg-name="Persiana Music" group-title="Persian Music",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
 
