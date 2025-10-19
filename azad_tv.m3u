@@ -23,4 +23,7 @@ https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w124457280.m3u8?hash=
 #EXTINF:-1 tvg-id="dunyatv" tvg-name="Dünya TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="News",Dünya TV
 https://yayin2.canlitv.fun/live/dunyatv.stream/chunklist_w631757118.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 
+#EXTINF:-1 tvg-id="bakutv" tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Baku_TV_logo.png" group-title="News",Baku TV
+https://rtmp.baku.tv/hls/bakutv_480p.m3u8
+
 
