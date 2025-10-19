@@ -14,6 +14,10 @@ https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w2069351493.m3u8?hash=d
 #EXTINF:-1 tvg-id="space_tv" tvg-name="Space TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Space_TV_Azerbaijan_logo.png" group-title="News",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 
+#EXTM3U
+#EXTINF:-1 tvg-id="aztv" tvg-name="Az TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/…/AzTV_Logo_2019.svg" group-title="News",Az TV
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
 
 
 
