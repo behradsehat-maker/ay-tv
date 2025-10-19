@@ -56,3 +56,7 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="streambrothers" tvg-name="StreamBrothers" group-title="News",StreamBrothers
 https://oldkors109.cfpass1.workers.dev/?url=https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 """
+
+#EXTINF:-1 tvg-id="itn" tvg-name="ITN Live" group-title="News",ITN Live
+https://itnhls.wns.live/hls/stream.m3u8
+"""
