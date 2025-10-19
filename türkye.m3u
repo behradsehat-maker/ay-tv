@@ -11,3 +11,14 @@ https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=Zhggbb
 #EXTINF:-1 tvg-id="kanal7" tvg-name="Kanal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Kanal_7_Turkey_logo.png" group-title="News",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV (Turkey)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/ATV_Turkey_logo.png" group-title="News",ATV (Turkey)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="kanald" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Kanal_D_logo.png" group-title="News",Kanal D
+https://yayin2.canlitv.fun/live/kanald.stream/chunklist_w1326125217.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
+#EXTINF:-1 tvg-id="tv8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV8_logo.png" group-title="News",TV8
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+
+
+
