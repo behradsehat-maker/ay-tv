@@ -21,4 +21,7 @@ https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
 #EXTINF:-1 tvg-id="persiana_music" tvg-name="Persiana Music" group-title="News",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="persiana_sports" tvg-name="Persiana Sports" group-title="Sports",Persiana Sports
+https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/Persiana%20Sports/chunks.m3u8
+"""
 
