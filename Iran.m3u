@@ -9,4 +9,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 tvg-id="manoto" tvg-name="Manoto TV" group-title="News", Manoto TV
 https://spf-cors-bktv9.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
 
+#EXTINF:-1 tvg-id="PMC" tvg-name="PMC" group-title="News", PMC
+https://spf-cors-aprt.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20PMC/chunks.m3u8
+
 
