@@ -35,11 +35,11 @@ https://oldkors109.cfpass1.workers.dev/?url=https://media2.streambrothers.com:19
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Euronews Persian" group-title="News",Euronews Persian
 https://cdn-euronews.akamaized.net/live/eds/euronews-fa/26398/euronews-fa.m3u8?hdnea=st=1760882126~exp=1760882546~acl=*~hmac=f9aac6fdd7daa822724f81c1df2083ee3cbb2393cfc1a775dd12fd40b5796a5c
-#EXTINF:-1 tvg-name="TMTV Live" group-title="TV",TMTV Live
+#EXTINF:-1 tvg-name="TMTV Live" group-title="News",TMTV Live
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TINTV2" group-title="News",TINTV2
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-name="ITV Persian" group-title="TV",ITV Persian
+#EXTINF:-1 tvg-name="ITV Persian" group-title="News",ITV Persian
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RFE TV" group-title="News",RFE TV
 https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/master.m3u8
