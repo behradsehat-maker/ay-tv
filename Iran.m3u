@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gem Mifa" group-title="News",Gem Mifa
+#EXTINF:-1 tvg-name="Gem Mifa" group-title="News",GEM Mifa
 https://corsply07c.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
 #EXTINF:-1 tvg-name="BBC Persian TV" group-title="News",BBC Persian TV
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
@@ -17,13 +17,13 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/Persiana%20Sports/chunks.m3u8
 #EXTINF:-1 tvg-name="Avang Live" group-title="News",Avang Live
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="PJTV" group-title="News",PJTV
+#EXTINF:-1 tvg-name="PJTV" group-title="News",Payam Javan
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Bravoo Live" group-title="News",Bravoo Live
+#EXTINF:-1 tvg-name="Bravoo Live" group-title="News",4U Plus
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="GEM Food" group-title="News",GEM Food
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20FOOD_/chunks.m3u8
-#EXTINF:-1 tvg-name="Nosh" group-title="News",Nosh
+#EXTINF:-1 tvg-name="Nosh" group-title="News",Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Iran International" group-title="News",Iran International
 https://iranintl.icdndhcp.com/hls/stream.m3u8
@@ -37,11 +37,11 @@ https://itnhls.wns.live/hls/stream.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-fa/26398/euronews-fa.m3u8?hdnea=st=1760882126~exp=1760882546~acl=*~hmac=f9aac6fdd7daa822724f81c1df2083ee3cbb2393cfc1a775dd12fd40b5796a5c
 #EXTINF:-1 tvg-name="TMTV Live" group-title="News",TMTV Live
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="TINTV2" group-title="News",TINTV2
+#EXTINF:-1 tvg-name="TINTV2" group-title="News",AFNTV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Persian" group-title="News",ITV Persian
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RFE TV" group-title="News",RFE TV
+#EXTINF:-1 tvg-name="RFE TV" group-title="News",Radio Farda
 https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/master.m3u8
 #EXTINF:-1 tvg-name="OITN Live" group-title="News",OITN Live
 https://oitnhls.wns.live/hls/stream.m3u8
