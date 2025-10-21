@@ -66,7 +66,7 @@ https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rfe" tvg-name="RFE TV" group-title="News",RFE TV
 https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/master.m3u8
 
-#EXTINF:-1 tvg-id="oitn" tvg-name="OITN Live" group-title="TV",OITN Live
+#EXTINF:-1 tvg-id="oitn" tvg-name="OITN Live" group-title="News",OITN Live
 https://oitnhls.wns.live/hls/stream.m3u8
 
 
