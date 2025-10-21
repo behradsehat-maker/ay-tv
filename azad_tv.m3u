@@ -1,27 +1,19 @@
-#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id="azad_tv" tvg-name="Azad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="News",Azad TV
+#EXTM3U
+#EXTINF:-1 ,Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
-
-#EXTINF:-1 tvg-id="arb_tv" tvg-name="ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="News",ARB
+#EXTINF:-1 ,ARB
 https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1184757841.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
-
-#EXTINF:-1 tvg-id="khazar_tv" tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="News",Xəzər TV
+#EXTINF:-1 ,Xəzər TV
 https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w2069351493.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
-
-#EXTINF:-1 tvg-id="space_tv" tvg-name="Space TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Space_TV_Azerbaijan_logo.png" group-title="News",Space TV
+#EXTINF:-1 ,Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
-
-#EXTINF:-1 tvg-id="aztv" tvg-name="Az TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/AzTV_Logo_2019.svg" group-title="News",Az TV
+#EXTINF:-1 ,Az TV
 https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
-
-#EXTINF:-1 tvg-id="medeniyyet_tv" tvg-name="Medeniyyet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" group-title="News",Medeniyyet TV
+#EXTINF:-1 ,Medeniyyet TV
 https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjkxLjY1LjMwLjU4IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQxLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NjA4NzEyODQsImp0aSI6IjZmMTI1NjJkMjRlOGFiOTMifQ%3D%3D.gXu3l4uaeit9uHnxL4U97URM8ku9UdOMBi2Ps4eKZ8Y%3D
-
-#EXTINF:-1 tvg-id="ictimaitv" tvg-name="İctimai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/ITV_Azerbaijan_Logo.png" group-title="News",İctimai TV
+#EXTINF:-1 ,İctimai TV
 https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w124457280.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
-
-#EXTINF:-1 tvg-id="dunyatv" tvg-name="Dünya TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="News",Dünya TV
+#EXTINF:-1 ,Dünya TV
 https://yayin2.canlitv.fun/live/dunyatv.stream/chunklist_w631757118.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
-
-#EXTINF:-1 tvg-id="bakutv" tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Baku_TV_logo.png" group-title="News",Baku TV
-https://rtmp.baku.tv/hls/bakutv_480p.m3u8
+#EXTINF:-1 tvg-logo="beh",Baku TV
+https://rtmp.baku.tv/hls/bakutvtvtv_480p.m3u8
