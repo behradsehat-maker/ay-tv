@@ -37,7 +37,7 @@ https://itnhls.wns.live/hls/stream.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-fa/26398/euronews-fa.m3u8?hdnea=st=1760882126~exp=1760882546~acl=*~hmac=f9aac6fdd7daa822724f81c1df2083ee3cbb2393cfc1a775dd12fd40b5796a5c
 #EXTINF:-1 tvg-name="TMTV Live" group-title="TV",TMTV Live
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="TINTV2" group-title="TV",TINTV2
+#EXTINF:-1 tvg-name="TINTV2" group-title="News",TINTV2
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Persian" group-title="TV",ITV Persian
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
