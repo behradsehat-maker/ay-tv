@@ -1,72 +1,47 @@
-ws#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Gem Mifa" group-title="News",Gem Mifa
+#EXTM3U
+#EXTINF:-1 tvg-name="Gem Mifa" group-title="News",Gem Mifa
 https://corsply07c.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
-
-#EXTINF:-1 tvg-id="bbc_persian" tvg-name="BBC Persian TV" group-title="News", BBC Persian TV
+#EXTINF:-1 tvg-name="BBC Persian TV" group-title="News",BBC Persian TV
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id="manoto" tvg-name="Manoto TV" group-title="News", Manoto TV
+#EXTINF:-1 tvg-name="Manoto TV" group-title="News",Manoto TV
 https://spf-cors-bktv9.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
-
-#EXTINF:-1 tvg-id="PMC" tvg-name="PMC" group-title="News", PMC
+#EXTINF:-1 tvg-name="PMC" group-title="News",PMC
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20PMC/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Navahang" group-title="News",Navahang Live
+#EXTINF:-1 tvg-name="Navahang" group-title="News",Navahang Live
 https://hls.navahang.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="tapesh" tvg-name="Tapesh TV" group-title="News",Tapesh TV
+#EXTINF:-1 tvg-name="Tapesh TV" group-title="News",Tapesh TV
 https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
-
-#EXTINF:-1 tvg-id="persiana_music" tvg-name="Persiana Music" group-title="News",Persiana Music
+#EXTINF:-1 tvg-name="Persiana Music" group-title="News",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="persiana_sports" tvg-name="Persiana Sports" group-title="News",Persiana Sports
+#EXTINF:-1 tvg-name="Persiana Sports" group-title="News",Persiana Sports
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/Persiana%20Sports/chunks.m3u8
-
-#EXTINF:-1 tvg-id="avang" tvg-name="Avang Live" group-title="News",Avang Live
+#EXTINF:-1 tvg-name="Avang Live" group-title="News",Avang Live
 https://hls.avang.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="pjtv" tvg-name="PJTV" group-title="News",PJTV
+#EXTINF:-1 tvg-name="PJTV" group-title="News",PJTV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bravoo" tvg-name="Bravoo Live" group-title="News",Bravoo Live
+#EXTINF:-1 tvg-name="Bravoo Live" group-title="News",Bravoo Live
 https://bravoohls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="gem_food" tvg-name="GEM Food" group-title="News",GEM Food
+#EXTINF:-1 tvg-name="GEM Food" group-title="News",GEM Food
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20FOOD_/chunks.m3u8
-
-#EXTINF:-1 tvg-id="nosh" tvg-name="Nosh" group-title="News",Nosh
+#EXTINF:-1 tvg-name="Nosh" group-title="News",Nosh
 https://noshls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="iran_intl" tvg-name="Iran International" group-title="News",Iran International
+#EXTINF:-1 tvg-name="Iran International" group-title="News",Iran International
 https://iranintl.icdndhcp.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="radio_javan" tvg-name="Radio Javan TV" group-title="News",Radio Javan TV
+#EXTINF:-1 tvg-name="Radio Javan TV" group-title="News",Radio Javan TV
 https://rjtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="streambrothers" tvg-name="StreamBrothers" group-title="News",StreamBrothers
+#EXTINF:-1 tvg-name="StreamBrothers" group-title="News",StreamBrothers
 https://oldkors109.cfpass1.workers.dev/?url=https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
-
-#EXTINF:-1 tvg-id="itn" tvg-name="ITN Live" group-title="News",ITN Live
+#EXTINF:-1 tvg-name="ITN Live" group-title="News",ITN Live
 https://itnhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="euronews_fa" tvg-name="Euronews Persian" group-title="News",Euronews Persian
+#EXTINF:-1 tvg-name="Euronews Persian" group-title="News",Euronews Persian
 https://cdn-euronews.akamaized.net/live/eds/euronews-fa/26398/euronews-fa.m3u8?hdnea=st=1760882126~exp=1760882546~acl=*~hmac=f9aac6fdd7daa822724f81c1df2083ee3cbb2393cfc1a775dd12fd40b5796a5c
-
-#EXTINF:-1 tvg-id="tmtv" tvg-name="TMTV Live" group-title="TV",TMTV Live
+#EXTINF:-1 tvg-name="TMTV Live" group-title="TV",TMTV Live
 https://hls.tmtv.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="tintv2" tvg-name="TINTV2" group-title="TV",TINTV2
+#EXTINF:-1 tvg-name="TINTV2" group-title="TV",TINTV2
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="itv_persian" tvg-name="ITV Persian" group-title="TV",ITV Persian
+#EXTINF:-1 tvg-name="ITV Persian" group-title="TV",ITV Persian
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="rfe" tvg-name="RFE TV" group-title="News",RFE TV
+#EXTINF:-1 tvg-name="RFE TV" tvg-logo="zhzhzhzhzhzh" group-title="News",RFE TV
 https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/master.m3u8
-
-#EXTINF:-1 tvg-id="oitn" tvg-name="OITN Live" group-title="News",OITN Live
+#EXTINF:-1 tvg-name="OITN Live" group-title="News",OITN Live
 https://oitnhls.wns.live/hls/stream.m3u8
-
-
