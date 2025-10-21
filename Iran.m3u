@@ -41,7 +41,7 @@ https://hls.tmtv.live/hls/stream.m3u8
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Persian" group-title="TV",ITV Persian
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RFE TV" tvg-logo="zhzhzhzhzhzh" group-title="News",RFE TV
+#EXTINF:-1 tvg-name="RFE TV" group-title="News",RFE TV
 https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/master.m3u8
 #EXTINF:-1 tvg-name="OITN Live" group-title="News",OITN Live
 https://oitnhls.wns.live/hls/stream.m3u8
