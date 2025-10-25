@@ -22,7 +22,7 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bravoo Live" group-title="News",4U Plus
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="GEM Food" group-title="News",GEM Food
-https://spf-cors-aprt.cfpass1.workers.dev/?url=https://ss.90minlive.online/live/IR%20-%20GEM%20FOOD_/chunks.m3u8
+https://live-stream-channels-cdn.site/live/food.m3u8
 #EXTINF:-1 tvg-name="Nosh" group-title="News",Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Iran International" group-title="News",Iran International
