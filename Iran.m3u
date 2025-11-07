@@ -4,7 +4,7 @@ https://live-stream-channels-cdn.site/live/mifa-music.m3u8
 #EXTINF:-1 tvg-name="BBC Persian TV" group-title="News",BBC Persian TV
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="Manoto TV" group-title="News",Manoto TV
-https://spf-cors-bktv9.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+https://spf-cors-bk-1c.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 tvg-name="PMC" group-title="News",PMC
 https://spf-cors-aprt.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20PMC/chunks.m3u8
 #EXTINF:-1 tvg-name="Navahang" group-title="News",Navahang Live
