@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Azad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="News",Azad TV
-https://cdn506.canlitv.vin/atvaz.m3u8?tkn=3eHuHj-S61t6uEnzxvYdSw&tms=1763848148&hst=www.canlitv.vin&ip=2a02:8109:9f04:3200:3411:753d:a6e3:96a0&utkn=914e2b9530f23a900e25f5c75a43270b&ch=atvazad-canli
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-name="ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="News",ARB
 https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1184757841.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="News",Xəzər TV
