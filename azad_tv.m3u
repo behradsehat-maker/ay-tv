@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Azad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="News",Azad TV
-https://cdn502.canlitv.vin/atvaz.m3u8?tkn=7RDh1keQqxN-5ysuoR0UFA&tms=1771717073&hst=www.canlitv.vin&ip=2a02:8109:9f04:3200:b554:52c5:ab43:a89c&utkn=25e4a3186076eb44495d29c8082441ec&ch=atvazad-canli
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-name="ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="News",ARB
 https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1184757841.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="News",Xəzər TV
@@ -17,3 +17,4 @@ https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w124457280.m3u8?hash=
 https://yayin2.canlitv.fun/live/dunyatv.stream/chunklist_w631757118.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Baku_TV_logo.png" group-title="News",Baku TV
 https://rtmp.baku.tv/hls/bakutv_480p.m3u8
+
