@@ -18,4 +18,6 @@ https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w124457280.m3u8?hash=
 https://yayin2.canlitv.fun/live/dunyatv.stream/chunklist_w631757118.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Baku_TV_logo.png" group-title="News",Baku TV
 https://rtmp.baku.tv/hls/bakutv_480p.m3u8
+#EXTINF:-1 tvg-name="Star TV" tvg-logo="" group-title="News",Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 
