@@ -7,6 +7,8 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1777834341&playlistlength=5&shift=0&sid=coder_62&token=ab018f2bc34d39e11a95439e04484786&user=37076
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Xazar_TV_Logo.png/250px-Xazar_TV_Logo.png" group-title="News",Xəzər TV
 https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w2069351493.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
+#EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="General",Xezer TV2
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-name="Space TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Space_TV_Azerbaijan_logo.png" group-title="News",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Az TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/AzTV_Logo_2019.svg" group-title="News",Az TV
@@ -29,7 +31,6 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=d484
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AnewZTV.az@SD" tvg-logo="https://i.imgur.com/Lwgdbuu.png" group-title="News",AnewZ
@@ -59,5 +60,4 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az@SD" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="General",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
