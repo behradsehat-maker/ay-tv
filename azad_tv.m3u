@@ -1,11 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Azad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="News",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.canlitv.me/
-#EXTINF:-1 tvg-name="ARB" group-title="News",ARB
-https://cdn900.canlitv.me/arbtv.m3u8?tkn=vzzOUG52mussOGreI17_Bw&tms=1777763866&hst=www.canlitv.me&ip=2a02:8109:9f04:3200:944d:5778:be26:106b&utkn=863b4366b23e24d18e8b8867b6be64f9&ch=arbtv-canli-hd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="ARB HD",ARB HD
+http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1777834341&playlistlength=5&shift=0&sid=coder_62&token=ab018f2bc34d39e11a95439e04484786&user=37076
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Xazar_TV_Logo.png/250px-Xazar_TV_Logo.png" group-title="News",Xəzər TV
 https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w2069351493.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Space TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Space_TV_Azerbaijan_logo.png" group-title="News",Space TV
