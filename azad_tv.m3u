@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Azad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="News",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-name="ARB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="News",ARB HD
-https://cdn509.canlitv.vin/arbtv.m3u8?tkn=TAdnim0JgOkNXqVymopXQA&tms=1784818391&hst=www.canlitv.vin&ip=2a02:8109:9f04:3200:d901:e568:1e6:bcf8&utkn=59e0986db36d43f64123c523ea3cf676&ch=arb-tv
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Xazar_TV_Logo.png/250px-Xazar_TV_Logo.png" group-title="News",Xəzər TV
 https://yayin2.canlitv.fun/live/xezertv.stream/chunklist_w2069351493.m3u8?hash=d48432a51cc5e4bbd18479c19810c21c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Xazar_TV_Logo.png/250px-Xazar_TV_Logo.png" group-title="News",Xezer TV2
